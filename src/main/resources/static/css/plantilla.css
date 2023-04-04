@@ -20,12 +20,18 @@
     width: "224";
     padding-top: 0;
     padding-bottom: 0;
+    padding-left: 10px;
+    margin-left: 50px;
     
     
 }
 /*  DETAIL*/
 .navbar-brand{
     color: #ffffff;
+}
+
+.navbar-brand:hover{
+    color: red;
 }
 /*Menu*/
 .nav-item{
@@ -35,12 +41,22 @@
 .nav-link{
     color: white;
 }
+.nav-link:hover{
+    color: red;
+}
 .navbar {
     line-height: 5px;
     background-image: url(/images/NavVarBackground.png);
     width: 100%;
+    
 }
 
 .navbar-toggler-icon{
     background-color: white;
+}
+
+.navbar svg{
+    color: white;
+    width: 30px;
+    top: 10px
 }

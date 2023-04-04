@@ -1,30 +1,10 @@
 
-
-h1{
-    color: red;
-}
-
-
 .home_content{
     
     height: 900px;
     
     background-image: url(/images/home.Background.jpg);
     background-size: cover;
-    
-    
-}
-
-.container{
-    
-}
-
-.row {
-    
-    
-   
-    
-    
     
     
 }
@@ -69,5 +49,22 @@ h1{
     background-size: cover;
     height: 200px;
 }
-
+#Trow1 a{
+    padding-left: 20px;
+    color: white;
+    background-color: red;
+    
+}
+#Trow2 a{
+    padding-left: 20px;
+    color: white;
+    background-color: red;
+    
+}
+#Trow3 a{
+    padding-left: 20px;
+    color: white;
+    background-color: red;
+    
+}
 
