@@ -1,0 +1,46 @@
+
+@import url('https://fonts.cdnfonts.com/css/agency-fb');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Agency FB', sans-serif;
+    box-sizing: border-box;
+}
+
+.nav background{
+    display: flex;
+    color: black;
+  
+    
+}
+
+
+.container-fluid{
+    background-color: black;
+    width: "224";
+    padding-top: 0;
+    padding-bottom: 0;
+    
+    
+}
+/*  DETAIL*/
+.navbar-brand{
+    color: #ffffff;
+}
+/*Menu*/
+.nav-item{
+    padding: 10px 50px;
+    
+}
+.nav-link{
+    color: white;
+}
+.navbar {
+    line-height: 5px;
+    background-image: url(/images/NavVarBackground.png);
+    width: 100%;
+}
+
+.navbar-toggler-icon{
+    background-color: white;
+}

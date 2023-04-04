@@ -1,0 +1,73 @@
+
+
+h1{
+    color: red;
+}
+
+
+.home_content{
+    
+    height: 900px;
+    
+    background-image: url(/images/home.Background.jpg);
+    background-size: cover;
+    
+    
+}
+
+.container{
+    
+}
+
+.row {
+    
+    
+   
+    
+    
+    
+    
+}
+
+.col{
+    content: red;
+    
+    
+}
+.p-3{
+   
+    background-color: red;
+    
+    
+}
+#Frow{
+    background-color: #EE0C0C;
+    
+    color: white;
+    
+    
+    
+}
+#Srow{
+    background-color: white;
+    color: red;
+}
+#Trow1{
+    background-image: url(/images/rings.jpg);
+    background-size: cover;
+    height: 200px;
+}
+
+#Trow2{
+    background-image: url(/images/homeSC.jpg);
+    background-size: cover;
+    height: 200px;
+}
+
+#Trow3{
+    background-image: url(/images/homeTC.jpg);
+    background-size: cover;
+    height: 200px;
+}
+
+
