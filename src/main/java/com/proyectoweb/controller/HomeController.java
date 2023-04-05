@@ -24,4 +24,22 @@ public class HomeController {
         return "login";
     }
     
+    @GetMapping("/homeInfo1")
+    public String homeInfo1(){
+        return "homeInfo1";
+    }
+    @GetMapping("/homeInfo2")
+    public String homeInfo2(){
+        return "homeInfo2";
+    }
+    @GetMapping("/homeInfo3")
+    public String homeInfo3(){
+        return "homeInfo3";
+    }
+    
+    @GetMapping("/contact")
+    public String contact(){
+        return "contact";
+    }
+    
 }

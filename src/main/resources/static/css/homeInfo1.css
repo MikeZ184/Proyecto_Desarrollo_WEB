@@ -1,0 +1,57 @@
+.col-6{
+    background-color: #EE0C0C;
+    
+    
+}
+row{
+    padding-left: 30px;
+    padding-right: 30px;
+   
+        
+     
+}
+
+.ferrari{
+    position: absolute;
+    left: 500px;
+    top: -120px;
+    
+}
+.p-3{
+    text-align: justify;
+    text-height: 600px;
+    
+    
+        
+}
+h1{
+    color: #EE0C0C;
+}
+
+.gwagon{
+    position: absolute;
+    height: 400px;
+    top: 30px;
+    left: 500px
+}
+
+.crytalLight{
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    left: 1000px;
+    top: 500px
+}
+.ultra{
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    left: 1000px;
+    top: 500px
+}
+.nissan{
+    position: absolute;
+    height: 400px;
+    top: 30px;
+    left: 500px
+}
