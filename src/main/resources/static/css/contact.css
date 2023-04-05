@@ -1,16 +1,20 @@
 .contactContent{
     background-image:url(/images/contact.jpg) ;
-    height: 1000
+    height: 1000;
+    background-size: cover;
+        
 }
 .map{
     color: white;
     background-color: red;
     width: 240px;
-    margin: 70px;
-        
-    
-        
+    margin: 70px;             
 }
+#map{
+    background-image: url(/images/map.png);
+    background-size: cover;
+    height: 500px
+    }
 .col{
     border-color: red aqua;
     border-width: 10px;
