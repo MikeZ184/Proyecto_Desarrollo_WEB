@@ -4,10 +4,15 @@
  */
 package com.proyectoweb.repository;
 
+import com.proyectoweb.entity.UsuarioEntity;
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+
 /**
  *
  * @author MIKE-PC
  */
-public interface UsuarioRepository {
+public interface UsuarioRepository extends CrudRepository<UsuarioEntity,Long>{
     
 }

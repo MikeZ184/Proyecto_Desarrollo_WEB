@@ -4,10 +4,13 @@
  */
 package com.proyectoweb.service;
 
+import com.proyectoweb.entity.UsuarioEntity;
+
 /**
  *
  * @author MIKE-PC
  */
 public interface IUsuarioService {
+    public void saveUser (UsuarioEntity usuarioentity);
     
 }

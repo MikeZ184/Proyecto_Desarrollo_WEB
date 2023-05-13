@@ -1,9 +1,38 @@
-/*
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
-*/
-/* 
-    Created on : Apr 3, 2023, 6:15:55 PM
-    Author     : MIKE-PC
-*/
+.register_content{
+    background-image: url(/images/insideLambo.jpg);
+    background-size: cover;
+    height: 900px
+}
+.white_container{
+    height: 660px;
+    width: 660px;
+    margin: auto;
+    background-color: white;
+}
 
+.title{
+    background-color: red;
+    width: 320px;
+    color: white;
+    margin-left: 30px;
+    padding: 5px
+}
+
+form{
+    padding-left: 15px;
+    margin-left: 30px;
+    padding-right: 15px;
+    margin-right: 30px
+}
+
+input{
+    
+}
+button{
+    margin-left: 200px;
+    padding: 5px;
+    font-size: 20px
+}
+.nombreUsuario{
+    background-color: gray
+}
